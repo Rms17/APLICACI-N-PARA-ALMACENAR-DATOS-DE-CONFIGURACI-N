@@ -1,2 +1,2 @@
-# APLICACI-N-PARA-ALMACENAR-DATOS-DE-CONFIGURACI-N
+# APLICACION-PARA-ALMACENAR-DATOS-DE-CONFIGURACION
 Aplicación para almacenar datos de configuración en Qt-creator 
